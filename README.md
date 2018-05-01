@@ -1,1 +1,1 @@
-##this the the dot file for the system initial setting
+## this the the dot file for the system initial setting
